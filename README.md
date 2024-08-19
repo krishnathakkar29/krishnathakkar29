@@ -30,6 +30,37 @@
 
 
   <!--- stats & Trophy (start) -->
+
+
+<hr />
+<!--<img alt="GIF" height="200" align="left" src="https://c.tenor.com/XrQe1tqGe6MAAAAC/hx-h-hunter-x-hunter.gif">-->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/4aba8602-6a81-4772-af1f-f593ee6c389f" width="300" align="left">
+<div align="center">
+<br />
+<h3>Connect with me:</h3>
+<p>
+<a href="[https://twitter.com/codingmickey](https://x.com/codingph0enix)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingmickey" height="30" width="40" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/krishnathakkar29/" target="blank"><img style="border-radius: 100%" align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+</p>
+</div>
+
+<br /><br /><br />
+<hr />
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,vite,netlify,prisma,supabase,express,figma,firebase,github,html,java,react,js,supabase,mongodb,mysql,postgresql,nextjs,nodejs,arduino,solidity,postman,py,react,redux,tailwind,ts,vscode,bun,materialui,&perline=14" />
+  </a>
+</p>
+<br />
+<hr />
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
@@ -51,28 +82,15 @@
 <!--- stats (end) -->
 </p>  
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,vite,netlify,prisma,supabase,express,figma,firebase,github,html,java,react,js,supabase,mongodb,mysql,postgresql,nextjs,nodejs,arduino,solidity,postman,py,react,redux,tailwind,ts,vscode,bun,materialui,&perline=14" />
-  </a>
-</p>
-
-
-<div id="user-content-toc">
+<!--<div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
   </ul>
-</div>
+</div>-->
 
 <!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/krishnathakkar29/" target="blank"><img style="border-radius: 100%" align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<!--<p align="center">
+<a href="https://www.linkedin.com/in/krishnathakkar29/" target="blank"><img style="border-radius: 100%" align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>-->
   <!--
 <a href="https://unstop.com/u/varadprabhu/" target="blank"><img style="border-radius: 100%" align="center" src="https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/branding-guidelines/icon/unstop-icon-800x800.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://devfolio.co/@varadprabhu/" target="blank"><img style="border-radius: 100%" align="center" src="https://avatars.githubusercontent.com/u/38809367" alt="discord" height="50" width="50" /></a>
