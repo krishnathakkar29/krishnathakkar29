@@ -24,6 +24,7 @@
 - 🔭 I’m currently working on **NextJs, MongoDB, Typescript, Prisma and NodeJs**
 -  🌱 I’m currently learning **DevOps and Web3**
 - 📝 I regularly post articles on [Twitter](https://x.com/codingph0enix)
+- 📖 Here's my [Portfolio](https://www.krishnat.tech)
 - 💬 Ask me about **ReactJs, ExpressJs , MongoDB, NodeJs**
 - 📫 Feel free to reach me out **work.krishnat@gmail.com**
 - 👯 I am looking to collaborate on projects related to web development
