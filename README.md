@@ -21,8 +21,8 @@
 </div>
 
 
-- 🔭 I’m currently working on **NextJS, SpringBoot, PostgreSQL, Prisma and NodeJS**
--  🌱 I’m currently learning **DevOps and Web3**
+- 🔭 I’m currently working on **NextJS, TypeScript, PostgreSQL, Prisma and NodeJS**
+-  🌱 I’m currently learning **DevOps and SpringBoot**
 - 📝 I regularly post articles on [Twitter](https://x.com/codingph0enix)
 - 📖 Here's my [Portfolio](https://www.krishnat.tech)
 - 💬 Ask me about **ReactJs, ExpressJs , MongoDB, NodeJs**
